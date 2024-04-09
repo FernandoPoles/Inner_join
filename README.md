@@ -12,7 +12,10 @@ A tarefa consiste em utilizar INNER JOIN e aliases em consultas SQL para unir in
 
 1. **Arquivo SQL:** Contém as consultas SQL utilizadas na tarefa, demonstrando o uso de INNER JOIN e aliases para facilitar a análise dos dados.
 
-2. **Output do Código:** Um print do output do código que executa as consultas SQL, demonstrando os resultados obtidos.
+2. **Output do Código:**
+
+![image](https://github.com/FernandoPoles/Inner_join/assets/164109947/8113c0e3-40bb-420c-bfb1-c7f22b8cd16e)
+
 
 ### Contato
 
