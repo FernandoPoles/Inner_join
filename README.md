@@ -6,7 +6,7 @@ Este repositório contém a entrega da tarefa "Alunos e Cidades" para a aula de 
 
 ### Descrição da Tarefa
 
-A tarefa consiste em utilizar INNER JOIN e aliases em consultas SQL para unir informações de duas tabelas: uma tabela de alunos e uma tabela de cidades. O objetivo é extrair insights sobre a distribuição geográfica dos alunos em relação às cidades em que residem.
+A tarefa consiste em utilizar INNER JOIN e aliases em consultas SQL para unir informações de duas tabelas: uma tabela de alunos e uma tabela de cidades.
 
 ### Conteúdo do Repositório
 
